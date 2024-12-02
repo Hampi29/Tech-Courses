@@ -1,0 +1,19 @@
+.course-detail {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.detail-image {
+  height: 400px;
+  width: 400px;
+}
+.descrption-container {
+  height: 400px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

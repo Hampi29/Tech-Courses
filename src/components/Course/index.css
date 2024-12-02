@@ -1,0 +1,17 @@
+.course {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 200px;
+  background-color: transparent;
+  color: black;
+  margin-bottom: 20px;
+}
+.logo {
+  height: 80px;
+  width: 70px;
+}
+.linkitem {
+  text-decoration: none;
+  color: black;
+}

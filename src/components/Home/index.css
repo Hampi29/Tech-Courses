@@ -1,0 +1,16 @@
+.courses-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.failure-image {
+  height: 300px;
+  width: 300px;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  width: 100vw;
+}
